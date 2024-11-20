@@ -27,9 +27,9 @@ Using Python and libraries like 'requests' and 'BeautifulSoup', this script exam
 
 ## How To Run?
 <ul dir="auto">
-<li>Create a "list.txt" file (or any ".txt" file).</li>
 <li>Install Python by downloading it from the official Python website <a href="https://www.python.org">https://www.python.org</a>.</li>
 <li><code>python file.py</code></li>
+<li>Put ur sites (e.g https://site.com/.git/)</li>
 </ul>
 
 ## Disclaimer !!!
