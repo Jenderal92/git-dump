@@ -17,8 +17,6 @@ Using Python and libraries like 'requests' and 'BeautifulSoup', this script exam
 ## Buy Coffee :
 <ul dir="auto">
 <li>Bitcoin $: 14nXhmRiQx5joCXFTdR8ydm3T8et7MFDXC</li>
-<li>Saweria $: https://saweria.co/Shin403</li>
-<li>Trakteer $: https://trakteer.id/shin403</li>
 <li>Buymeacoffee $: https://www.buymeacoffee.com/shin.code</li>
 <li>Ko-Fi $: https://ko-fi.com/shincode403</li>
 </ul>
